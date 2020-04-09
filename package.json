@@ -1,0 +1,22 @@
+{
+  "name": "express-debug-async-wrap",
+  "version": "1.0.0",
+  "description": "Test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcos/express-debug-async-wrap.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Alex Cos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexcos/express-debug-async-wrap/issues"
+  },
+  "homepage": "https://github.com/alexcos/express-debug-async-wrap#readme"
+}
