@@ -1,5 +1,5 @@
 {
-  "name": "express-debug-async-wrap",
+  "name": "@xalexcos/express-debug-async-wrap",
   "version": "1.0.0",
   "description": "Test repo",
   "main": "index.js",
